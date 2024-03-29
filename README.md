@@ -4,4 +4,5 @@
 
 - Assignment 1: SimpleEnroll
 - Assignment 2: Marriage Pact
-- Assignment 3: Make a Class!
+- Assignment 3: Make a Class!(Skiped, have done in OOP)
+- Assignment 4: Weather Forecast
